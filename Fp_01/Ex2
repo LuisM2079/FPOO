@@ -2,23 +2,32 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  */
 
-package pt.ipp.estg.pp.calc;
+package pt.ipp.estg.pp.techstore;
+
 import java.util.Scanner;
 
 /**
  *
  * @author luism
  */
-public class Calc {
+public class TechStore {
 
     public static void main(String[] args) {
+        
         Scanner scanner = new Scanner(System.in);
         
         System.out.print("Introduza o preço original: ");
         double Preco = scanner.nextDouble();
+        double Percentagem;
+        if(Preco < 50){
+                Percentagem = 0;
+        }else if (Preco <=100){
+                Percentagem = 10;
+        }else {
+                Percentagem = 20;
+        }
         
-        System.out.print("Introduza a percentagem de desconto: ");
-        double Percentagem = scanner.nextDouble();
+                
         
         double ValorD = Preco * (Percentagem / 100);
         double PrecoFinal = Preco - ValorD;
@@ -29,6 +38,8 @@ public class Calc {
         System.out.printf("Preço Original: %.2f€", Preco);
         System.out.println("");
         System.out.printf("Percentagem Desconto: %.2f", Percentagem);
+        System.out.println("");
+        System.out.printf("Total Poupado: %.2f€", ValorD);
         System.out.println("");
         System.out.printf("Preço Final: %.2f€", PrecoFinal);
         
