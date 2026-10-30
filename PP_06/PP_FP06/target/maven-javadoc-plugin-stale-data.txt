@@ -1,0 +1,45 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+25
+-sourcepath
+'C:/Users/luism/Documents/NetBeansProjects/1/PP_FP06/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/luism/Documents/NetBeansProjects/1/PP_FP06/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PP_FP06 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'PP_FP06 1.0-SNAPSHOT API'
+pp_fp06.pizza_restaurant
+pp_fp06.pizza_restaurant.enums
+pt.ipp.estg.pp.pp_fp06
+C:\Users\luism\Documents\NetBeansProjects\1\PP_FP06\src\main\java = 1761907919679
+C:\Users\luism\Documents\NetBeansProjects\1\PP_FP06\target\reports\apidocs\allclasses-index.html = 1793354295285
+C:\Users\luism\Documents\NetBeansProjects\1\PP_FP06\target\reports\apidocs\allpackages-index.html = 1793354295289
+C:\Users\luism\Documents\NetBeansProjects\1\PP_FP06\target\reports\apidocs\element-list = 1793354295111
+C:\Users\luism\Documents\NetBeansProjects\1\PP_FP06\target\reports\apidocs\help-doc.html = 1793354295338
+C:\Users\luism\Documents\NetBeansProjects\1\PP_FP06\target\reports\apidocs\index-all.html = 1793354295326
+C:\Users\luism\Documents\NetBeansProjects\1\PP_FP06\target\reports\apidocs\index.html = 1793354295259
+C:\Users\luism\Documents\NetBeansProjects\1\PP_FP06\target\reports\apidocs\member-search-index.js = 1793354295300
+C:\Users\luism\Documents\NetBeansProjects\1\PP_FP06\target\reports\apidocs\module-search-index.js = 1793354295292
+C:\Users\luism\Documents\NetBeansProjects\1\PP_FP06\target\reports\apidocs\overview-summary.html = 1793354295334
+C:\Users\luism\Documents\NetBeansProjects\1\PP_FP06\target\reports\apidocs\overview-tree.html = 1793354295252
+C:\Users\luism\Documents\NetBeansProjects\1\PP_FP06\target\reports\apidocs\package-search-index.js = 1793354295294
+C:\Users\luism\Documents\NetBeansProjects\1\PP_FP06\target\reports\apidocs\search.html = 1793354295330
+C:\Users\luism\Documents\NetBeansProjects\1\PP_FP06\target\reports\apidocs\tag-search-index.js = 1793354295302
+C:\Users\luism\Documents\NetBeansProjects\1\PP_FP06\target\reports\apidocs\type-search-index.js = 1793354295297
