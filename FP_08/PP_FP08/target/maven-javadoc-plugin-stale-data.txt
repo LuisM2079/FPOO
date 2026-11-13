@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+--no-fonts
+-encoding
+'UTF-8'
+-protected
+--release
+25
+-sourcepath
+'C:/Users/luism/Documents/NetBeansProjects/PP_FP08/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/luism/Documents/NetBeansProjects/PP_FP08/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'PP_FP08 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'PP_FP08 1.0-SNAPSHOT API'
+pt.ipp.estg.pp.pp_fp08
+pt.ipp.estg.pp.pp_fp08.stand
+pt.ipp.estg.pp.pp_fp08.stand.enums
+pt.ipp.estg.pp.pp_fp08.stand.trailer
+C:\Users\luism\Documents\NetBeansProjects\PP_FP08\src\main\java = 1794562136732
+C:\Users\luism\Documents\NetBeansProjects\PP_FP08\target\reports\apidocs\allclasses-index.html = 1794564268546
+C:\Users\luism\Documents\NetBeansProjects\PP_FP08\target\reports\apidocs\allpackages-index.html = 1794564268550
+C:\Users\luism\Documents\NetBeansProjects\PP_FP08\target\reports\apidocs\constant-values.html = 1794564268396
+C:\Users\luism\Documents\NetBeansProjects\PP_FP08\target\reports\apidocs\element-list = 1794564268327
+C:\Users\luism\Documents\NetBeansProjects\PP_FP08\target\reports\apidocs\help-doc.html = 1794564268597
+C:\Users\luism\Documents\NetBeansProjects\PP_FP08\target\reports\apidocs\index-all.html = 1794564268586
+C:\Users\luism\Documents\NetBeansProjects\PP_FP08\target\reports\apidocs\index.html = 1794564268524
+C:\Users\luism\Documents\NetBeansProjects\PP_FP08\target\reports\apidocs\member-search-index.js = 1794564268561
+C:\Users\luism\Documents\NetBeansProjects\PP_FP08\target\reports\apidocs\module-search-index.js = 1794564268553
+C:\Users\luism\Documents\NetBeansProjects\PP_FP08\target\reports\apidocs\overview-summary.html = 1794564268592
+C:\Users\luism\Documents\NetBeansProjects\PP_FP08\target\reports\apidocs\overview-tree.html = 1794564268518
+C:\Users\luism\Documents\NetBeansProjects\PP_FP08\target\reports\apidocs\package-search-index.js = 1794564268556
+C:\Users\luism\Documents\NetBeansProjects\PP_FP08\target\reports\apidocs\search.html = 1794564268589
+C:\Users\luism\Documents\NetBeansProjects\PP_FP08\target\reports\apidocs\tag-search-index.js = 1794564268563
+C:\Users\luism\Documents\NetBeansProjects\PP_FP08\target\reports\apidocs\type-search-index.js = 1794564268558
